@@ -1,0 +1,22 @@
+body{
+    background-image: url("walpaper.jpg");
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    color: darkred;
+    background-color: pink;
+}
+h1{background-color: bisque;
+color:mediumorchid;}
+
+img.foto{
+    width: 300px;
+    height: 450px;
+}
+div.info{
+    background-color: antiquewhite;
+    width: 500px;
+    border-radius: 10%;
+    border: 3px solid pink;
+}
